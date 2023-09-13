@@ -1,6 +1,6 @@
 # Welcome to the Discord NullPointerException Community!
 
-![Community Logo](https://your-image-url.com/community-logo.png)
+![Community Logo](https://avatars.githubusercontent.com/u/143850027?s=200&v=4)
 
 ## About Us
 
@@ -10,7 +10,7 @@ Welcome to our Discord community dedicated to discussing and resolving issues re
 
 To join our community and start collaborating with fellow developers, please click the link below:
 
-[Join Discord Server](https://discord.gg/your-invite-link)
+[Join Discord Server](https://discord.gg/Qr6KCNZv)
 
 ## Community Guidelines
 
@@ -35,25 +35,10 @@ We have organized our Discord server into various channels to facilitate discuss
 - **#resources**: Share helpful resources, tutorials, and tools.
 - **#off-topic**: For off-topic conversations and relaxation.
 
-## Meet the Admins
-
-Our community is managed by dedicated administrators who are here to assist you:
-
-- [@AdminUsername1](https://github.com/AdminUsername1)
-- [@AdminUsername2](https://github.com/AdminUsername2)
-
 Feel free to reach out to them if you have any questions or concerns.
-
-## Contribute to Our GitHub Repository
-
-We also maintain a GitHub repository where we collaborate on projects related to NullPointerException. Check it out and get involved!
-
-[GitHub Repository](https://github.com/YourOrganization/YourRepository)
 
 ## Feedback and Suggestions
 
 Your feedback is essential to improve our community. If you have any suggestions or ideas for making this community even better, please let us know in the #feedback channel.
 
 Thank you for being a part of the Discord NullPointerException Community. We look forward to helping you and learning together!
-
-![Null Pointer Exception Image](https://your-image-url.com/null-pointer-exception.png)
